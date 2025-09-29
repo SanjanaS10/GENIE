@@ -59,4 +59,5 @@ I had also worked on documenting my work in the form of blogs and stared compili
 - ```Tests``` : python files with unit tests for each functions. (To be updated)
 - ```Figures```: contains some plots describing the results obtained in this project.
 - ```README.md```: This documentation file
+- ```Initial_test```: This directory contains all the files sumbitted as part of the initial tests as part of the application for GSoC 2025.
 
