@@ -1,4 +1,4 @@
-- ```flow_de``` : directory containing the files and scripts to train different models
+ ```flow_de``` : directory containing the files and scripts to train different models
   -   ``` flow_de.py``` : python file containg the classes named ```class qVectorField``` and ```class FlowDE``` for definig the q-function and numerically solving the reverse-time diffusion equation.
   -   ```gendata.py``` : python file continaing functions to sample from 1 , 2 and 3 dimensional distibutions considered in this project.
   -   ``` networks_1d.py``` , ``` networks_2d.py``` and ``` networks_3d.py``` : python files containing majority of the pytorch functions required to defining and training the neural networks for different cases.    
