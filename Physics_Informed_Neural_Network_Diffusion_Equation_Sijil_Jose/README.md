@@ -37,7 +37,7 @@ Following are the relevant documents pertaining to this project.
 
 ### My Contributions:
 
-Initally I had written a detailed [proposal](https://github.com/sijil-jose/GENIE/blob/PINNDE/Physics_Informed_Neural_Network_Diffusion_Equation_Sijil_Jose/slides_docs/GSOC_2025_Project_Proposal_Sijil_Jose.pdf) outlining my plans for the project and also finshed a [test task](). The following is the code developed during the GSoC 2025 coding period. 
+Initally I had written a detailed [proposal](https://github.com/sijil-jose/GENIE/blob/PINNDE/Physics_Informed_Neural_Network_Diffusion_Equation_Sijil_Jose/slides_docs/GSOC_2025_Project_Proposal_Sijil_Jose.pdf) outlining my plans for the project and also finshed a [test task](https://github.com/sijil-jose/GENIE/tree/PINNDE/Physics_Informed_Neural_Network_Diffusion_Equation_Sijil_Jose/Initial_test). The following is the code developed during the GSoC 2025 coding period. 
 - Code on GENIE Github Repository: [Link to official Repository](https://github.com/ML4SCI/GENIE/tree/main/Physics_Informed_Neural_Network_Diffusion_Equation_Sijil_Jose)
 - Code on my Github Repository (my fork) : [Link to my fork (branch PINNDE)](https://github.com/sijil-jose/GENIE/blob/PINNDE/Physics_Informed_Neural_Network_Diffusion_Equation_Sijil_Jose/README.md)
 
