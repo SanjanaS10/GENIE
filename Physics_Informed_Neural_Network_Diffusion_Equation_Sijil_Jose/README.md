@@ -11,8 +11,8 @@ As part of GSoC 2025, I contributed to this project titled as 'PINNDE:Physics In
 
 #### Other Important Documents:
 - Initial project idea from ML4SCI : [ML4SCI LinK](https://ml4sci.org/gsoc/2025/proposal_GENIE5.html)
-- My project proposal : [Proposal]()
+- My project proposal : [Proposal](Physics_Informed_Neural_Network_Diffusion_Equation_Sijil_Jose/slides_docs/GSOC_2025_Project_Proposal_Sijil_Jose.pdf)
 - GSoC Abstract : [Abstract]()
 - Mid Term blog summarising the project : [PINNDE mid-term blog](https://medium.com/@sijiljose.999/gsoc-2025-with-ml4sci-part-i-physics-informed-neural-network-for-diffusion-equation-pinnde-491d46a5b84d)
 - Final Document : (Coming Soon!!)
-- Midterm Lighting Talk : [Midterm slides]()
+- Midterm Lighting Talk : [Midterm slides](Physics_Informed_Neural_Network_Diffusion_Equation_Sijil_Jose/slides_docs/Mid-term_slides.pdf)
