@@ -1,0 +1,10 @@
+pip>=24.0
+numpy==1.24.3
+torch==2.0.0+cu118 -f https://download.pytorch.org/whl/torch_stable.html
+torch-geometric
+torch-scatter -f https://data.pyg.org/whl/torch-2.0.0+cu118.html
+torch-sparse -f https://data.pyg.org/whl/torch-2.0.0+cu118.html
+torch-cluster -f https://data.pyg.org/whl/torch-2.0.0+cu118.html
+networkx
+scikit-learn
+jetnet
